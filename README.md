@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="design/images.jfif" width="180" alt="Japan">
+  <img src="design/images.gif" width="200" alt="Japan">
 </p>
 
 ### 🚀 Мои проекты по автоматизации тестирования
@@ -46,7 +46,7 @@
 ### 🎓 Образование
 <table width="100%" border="0">
   <tr>
-    <td width="20%" valign="middle"><img src="design/usue.jfif" alt="УрГЭУ"></td>
+    <td width="13%" valign="middle"><img src="design/usue.jfif" alt="УрГЭУ"></td>
     <td valign="middle">
       <b>Уральский государственный экономический университет (УрГЭУ)</b><br>
       Институт менеджмента и информационных технологий.<br>
@@ -58,21 +58,21 @@
 ### 📚 Дополнительное образование
 <table width="100%" border="0">
   <tr>
-    <td width="20%" valign="middle"><img src="design/qa.webp" alt="QA"></td>
+    <td width="13%" valign="middle"><img src="design/qa.avif" alt="QA"></td>
     <td valign="middle">
       <b>QA Automation Testing</b> — самостоятельное обучение.<br>
       <b>Manual QA Testing</b> — самостоятельное обучение.
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="middle"><img src="design/stepik.jpg" alt="Stepik"></td>
+    <td width="13%" valign="middle"><img src="design/stepik.jpg" alt="Stepik"></td>
     <td valign="middle">
       Курс <a target="_blank" href="https://stepik.org/cert/182436">«Python: основы и применение»</a>.<br>
       Курс <a target="_blank" href="https://stepik.org/cert/1439721">«Интерактивный тренажер по SQL»</a>.
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="middle"><img src="design/hse.png" alt="HSE"></td>
+    <td width="13%" valign="middle"><img src="design/hse.png" alt="HSE"></td>
     <td valign="middle">Курс <a target="_blank" href="https://coursera.org/share/ebe245d6f750e1bf2978b38548688421">«Основы программирования на Python»</a>.</td>
   </tr>
 </table>
